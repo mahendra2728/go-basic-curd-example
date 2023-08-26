@@ -1,0 +1,9 @@
+#TO run go program use below command
+go run main.go
+
+
+#To Install any package use below command 
+#e.g we have used gorilla/mux lib so to add the same lib in our code we have to use below command
+go get github.com/gorilla/mux
+
+
